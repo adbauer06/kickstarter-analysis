@@ -12,7 +12,7 @@ To perform this analysis, I focused on "theater" campaigns only.  Campaigns also
 
 Using the Kickstarter database, a summary table was created listing campaign outcomes based on the month in which their campaigns were launched.  Although an analysis could have been done by individual years, for this report we looked at all months collectively across years.
 
-![Theater_Outcomes_vs_Launch](resources/Theater_Outcomes_vs_Launch.png)
+![Theater_Outcomes_vs_Launch](./resources/Theater_Outcomes_vs_Launch.png)
 
 
 
@@ -20,7 +20,7 @@ Using the Kickstarter database, a summary table was created listing campaign out
 
 For this analysis, a summary table was created to break fundraising goals into ranges.  Then the percent of campaigns that were successful, failed, or canceled within each goal range was calculated.
 
-![Outcomes_vs_Goals](resources/Outcomes_vs_Goals.png)
+![Outcomes_vs_Goals](./resources/Outcomes_vs_Goals.png)
 
 ### Challenges and Difficulties Encountered
 
